@@ -18,4 +18,3 @@ con.addEventListener('dblclick', function () {
     }, 2000)
 
 })
-
